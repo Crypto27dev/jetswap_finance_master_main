@@ -1,4 +1,3 @@
-specVersion: 0.0.2
 description: PancakeSwap is a decentralized protocol for automated token exchange on Binance Smart Chain.
 repository: https://github.com/gabbo-dam/jetswap-subgraph
 schema:
