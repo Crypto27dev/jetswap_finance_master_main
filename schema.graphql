@@ -3,12 +3,6 @@ type UniswapFactory @entity {
   id: ID!
 
   # pair info
-  pairCount: Int!
-
-  # total volume
-  totalVolumeUSD: BigDecimal!
-  totalVolumeETH: BigDecimal!
-
   # untracked values - less confident USD scores
   untrackedVolumeUSD: BigDecimal!
 
