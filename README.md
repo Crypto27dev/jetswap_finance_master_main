@@ -8,17 +8,6 @@ This subgraph dynamically tracks any pair created by the uniswap factory. It tra
 - data on individual pairs and tokens,
 - data on transactions
 - data on liquidity providers
-- historical data on PancakeSwap, pairs or tokens, aggregated by day
-
-## Running Locally
-
-Make sure to update package.json settings to point to your own graph account.
-
-## Queries
-
-Below are a few ways to show how to query the uniswap-subgraph for data. The queries show most of the information that is queryable, but there are many other filtering options that can be used, just check out the [querying api](https://thegraph.com/docs/graphql-api). These queries can be used locally or in The Graph Explorer playground.
-
-## Key Entity Overviews
 
 #### UniswapFactory
 
